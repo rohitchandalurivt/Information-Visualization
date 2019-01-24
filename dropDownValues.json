@@ -1,0 +1,12 @@
+{
+  "boxwhisker": {
+  	"dropDownList" : ["Time to prelim","Time to final"],
+   	"dropDownValues" : 
+  		{
+  			"Time to prelim" : ["Prelim Exam Date","TTP", "Date Entered Primary"],
+  			"Time to final" : ["Final Exam Date","PTF","Prelim Exam Date"]
+  		}
+  },
+  "visDropDown": ["Citizenship Country", "Final Degree", "Advisor", "Campus", "Grad Degree?", "International", "Primary College", "Primary Major", "Residency", "Secondary Degree", "Secondary Major", "Thesis", "Prior Degrees", "Date Entered as Primary"],
+  "parallelSetsDropDown" : ["Final Degree", "Campus",  "Citizenship Country", "Prior Degrees", "Date Entered as Primary"]
+}
